@@ -1,0 +1,12 @@
+algoritmo para fazer um sanduíche 
+
+1- ir ao mercado
+2- comprar pão
+3- comprar presunto
+4- comprar queijo
+5- chegar em casa 
+6- separar as coisas em cima da mesa
+7- pegar um fatia do pão 
+8- colocar queijo
+9- colocar presunto
+10- pegar a outra fatia e fechar o pão

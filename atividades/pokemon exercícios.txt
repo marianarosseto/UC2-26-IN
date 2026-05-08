@@ -1,0 +1,7 @@
+pokemon exercícios
+
+1- pokemon linha 25 - grep Pikachu ./pokemons.txt
+
+2- grep Pikachu -A 2 ./pokemons.txt
+
+3-
